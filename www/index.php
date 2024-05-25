@@ -46,7 +46,7 @@
             <br>
             - Voir les instructions d'installation de la boutique en ligne et du forum :
             <br>
-            <a href="./README.md" class="instruction">Instruction d'installation de la boutique et du forum</a>
+            <a href="README.md" class="instruction">Instruction d'installation de la boutique et du forum</a>
             <br>
             Pour plus de renseignements, vous pouvez rejoindre notre serveur Discord :
             <br>
