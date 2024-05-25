@@ -7,7 +7,7 @@
     "exported_at": "2024-04-28T21:51:24+02:00",
     "name": "Darkhost WebServer",
     "author": "YmoT@tuta.com",
-    "description": "private",
+    "description": "Serveur Web / ssl avec boutique et forum - version Beta",
     "features": null,
     "docker_images": {
         "ghcr.io\/ym0t\/nginx_php:8.3": "ghcr.io\/ym0t\/nginx_php:8.3",
