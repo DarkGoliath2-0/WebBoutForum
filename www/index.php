@@ -43,6 +43,11 @@
         <img src="https://i.imgur.com/rQuxdg6.jpg" alt="Logo" class="logo">
         <div class="text">
             Bienvenue sur le serveur Temporaire hébergé par "Darkhosts Hébergement".<br>
+            <br>
+            - Voir les instructions d'installation de la boutique en ligne et du forum :
+            <br>
+            <a href="./README.md" class="instruction">Instruction d'installation de la boutique et du forum</a>
+            <br>
             Pour plus de renseignements, vous pouvez rejoindre notre serveur Discord :
             <br>
             <a href="https://discord.gg/D4cqeyBHWg" class="discord-link">https://discord.gg/D4cqeyBHWg</a>
