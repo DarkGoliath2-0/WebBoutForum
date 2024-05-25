@@ -6,13 +6,14 @@
 - **Step 2:** Créer également un lien vers le répertoire : phpBB3/ sur votre site pour le forum.
 - **Step 3:** Enregistré votre site web et placé le dans le répertoire **"www/"** sans toucher aux autres fichiers.
 
-- **Step 4:** Créer une base de donnée dans l'onglet "Database". 
+- **Step 4:** Créer une base de donnée dans l'onglet "Database".
+  
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/d2184dcc-0ec2-44dd-b6d0-828f9e735736)
 
-    2- Cliquez sur le bouton "**New Database**"
+    2- Cliquez sur le bouton **"New Database"**
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/afa5157e-cd8e-4d58-8d58-4850c69abd47)
 
-    3- Ajouter un nom dans le champs "DATABASE NAME" et cliquez simplement. "**Create Database**"
+    3- Ajouter un nom dans le champs **"DATABASE NAME"** et cliquez simplement. **"Create Database"**
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/168de967-4526-4436-87b5-014e667d26e2)
 
 - **Step 5:** Demarrer le serveur ou redémarrer si vous modifiez en local.
