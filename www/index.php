@@ -63,6 +63,7 @@
         }
     </style>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@1.9.1/dist/showdown.min.js"></script>
 </head>
 <body>
     
@@ -84,7 +85,7 @@
     <div id="popup-overlay"></div>
     <div id="popup">
         <button id="close-popup">Fermer</button>
-        <pre id="readme-content"></pre>
+        <div id="readme-content"></div>
     </div>
 
     <script>
@@ -94,7 +95,9 @@
                 event.preventDefault();
 
                 $.get('README.md', function(data) {
-                    $('#readme-content').text(data);
+                    var converter = new showdown.Converter();
+                    var html = converter.makeHtml(data);
+                    $('#readme-content').html(html);
                     $('#popup-overlay, #popup').show();
                 });
             });
