@@ -22,7 +22,7 @@
 - 
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/261fe057-76b3-406d-8e77-7ee663cd7b2d)
 
-- **Step 6:** Rendez vous a l'adresse de votre site : **https://panel.darkhosts.fr:<port>**.
+- **Step 6:** Rendez vous a l'adresse de votre site : **https://panel.darkhosts.fr:\<port>**.
   
     Selectionner vos liens et suivez les instructions dans le paragraphe "**Install Prestashop**" pour la boutique et "**Install Forum**" pour le forum Php
 
