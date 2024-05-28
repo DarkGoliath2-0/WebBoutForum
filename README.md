@@ -2,8 +2,8 @@
 # Pterodactyl Nginx egg - Version Boutique integrêt et Forum php
 
 ## How to install
-- **Step 1:** Créer un lien vers le répertoire : [shop](https://panel.darkhosts.fr:{{server.build.default.port}}/shop) ou cliquez pour installer.
-- **Step 2:** Créer également un lien vers le répertoire : [phpBB3/install/](https://panel.darkhosts.fr:{{server.build.default.port}}/phpBB3/install) ou cliquez pour installer.
+- **Step 1:** Créer un lien vers le répertoire : [shop](https://panel.darkhosts.fr:{{server.build.default.port}}/shop) ou cliquez pour installer la **Boutique**.
+- **Step 2:** Créer également un lien vers le répertoire : [phpBB3/install/](https://panel.darkhosts.fr:{{server.build.default.port}}/phpBB3/install) ou cliquez pour installer le **Forum**.
 - **Step 3:** Enregistré votre site web et placé le dans le répertoire **"www/"** sans toucher aux autres fichiers avant l'installation ou après avoir installer les module.
 
 - **Step 4:** Créer une base de donnée dans l'onglet "Database".
@@ -84,7 +84,7 @@ https://discord.com/channels/1227626088541323425/1235022658282852363
 
 # Install Forum 
 
-## Cliquez sur le lien pour accéder au répertoire du forum
+## Cliquez sur le lien pour accéder au répertoire du forum : => [Installer le Forum](https://panel.darkhosts.fr:{{server.build.default.port}}/phpBB3/install)
 
 - **Step 1:** Une fois cliquez vous serez amené sur la page suivant.
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/1ae9bedf-26d4-47e3-a8c0-897f1a68a253)
