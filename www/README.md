@@ -2,15 +2,15 @@
 # Pterodactyl Nginx egg - Version Boutique integrêt et Forum php
 
 ## How to install
-- **Step 1:** Créer un lien vers le répertoire : shop/ sur votre site web.
-- **Step 2:** Créer également un lien vers le répertoire : phpBB3/ sur votre site pour le forum.
-- **Step 3:** Enregistré votre site web et placé le dans le répertoire **"www/"** sans toucher aux autres fichiers.
+- **Step 1:** Créer un lien vers le répertoire : [shop](https://panel.darkhosts.fr:{{server.build.default.port}}/shop) ou cliquez pour installer la **Boutique**.
+- **Step 2:** Créer également un lien vers le répertoire : [phpBB3/install/](https://panel.darkhosts.fr:{{server.build.default.port}}/phpBB3/install) ou cliquez pour installer le **Forum**.
+- **Step 3:** Enregistré votre site web et placé le dans le répertoire **"www/"** sans toucher aux autres fichiers avant l'installation ou après avoir installer les module.
 
 - **Step 4:** Créer une base de donnée dans l'onglet "Database".
   
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/d2184dcc-0ec2-44dd-b6d0-828f9e735736)
 
-    2- Cliquez sur le bouton "New Database"
+    2- Cliquez sur le bouton "New Database" 
 
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/afa5157e-cd8e-4d58-8d58-4850c69abd47)
 
@@ -22,7 +22,7 @@
 - 
 ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/261fe057-76b3-406d-8e77-7ee663cd7b2d)
 
-- **Step 6:** Rendez vous a l'adresse de votre site : **https://panel.darkhosts.fr:(port)**.
+- **Step 6:** Rendez vous a l'adresse de votre site : **[https://panel.darkhosts.fr:{{server.build.default.port}}](https://panel.darkhosts.fr:{{server.build.default.port}})**.
   
     Selectionner vos liens et suivez les instructions dans le paragraphe "**Install Prestashop**" pour la boutique et "**Install Forum**" pour le forum Php
 
@@ -82,20 +82,63 @@ https://discord.com/channels/1227626088541323425/1235022658282852363
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## Install Forum 
+# Install Forum 
 
+## Cliquez sur le lien pour accéder au répertoire du forum : => [Installer le Forum](https://panel.darkhosts.fr:{{server.build.default.port}}/phpBB3/install)
 
-## Change PHP version
+- **Step 1:** Une fois cliquez vous serez amené sur la page suivant.
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/1ae9bedf-26d4-47e3-a8c0-897f1a68a253)
 
-- **Step 1:** 
+      - Cliquez sur installer dans l'onglet a gauche, vous pouvez également sélectionner la langue dans la partie droite. cliquez sur change pour appliquer.
 
-- **Step 2:** 
+  ![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/b629057b-4150-44de-a6e9-09c7354203c5)![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/4c833ea9-55ea-406f-b9f7-b7809d7c4d53)
 
-- **Step 3:** 
+- **Step 2:** Une fois cliquez sur install vous aurez un rappel des informations nécessaire au fonctionnement du forum.
+Si vous n'avez pas le bouton install afficher, merci d'ouvrir un ticket sur notre serveur discord en suivant ce lien : [Open Ticket](https://discord.com/channels/1227626088541323425/1227781906913824819)
 
-- **Step 4:** 
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/cc3aef21-439e-4a06-aee3-794f4a5287c8)
 
+Si l'affichage correspond a l'image ci-dessus, vous pouvez cliquez sur "**install**"
 
-## PHP extensions
+- **Step 3:** __Informations pour identifié l'Administrateur__
 
-## License
+    - Une fois cliquez sur install ont vous demandera de completer les informations concernant l'administrateur, 
+  
+    - Indiquer un nom d'utilisateur, un email valide, un mot de passe suffisament sécurisé.
+
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/995881b9-3748-4e29-9dc7-1951a68cf860)
+
+- **Step 4:** __Informations consernant la connexion à la base de donner..__
+  Comme pour la boutique, vous devez connecter la base de donner à votre forum, ou l'inverse..
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/b3d50288-b15f-4d3d-8f0c-dd825bb68dbc)
+
+A) __Indiquer les même informations pour la connexion que celle récupérer préalablement :__ 
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/dbba2058-d742-469f-bbcf-2631be458015)
+
+- **Step 5:** __Passer simplement ces page sans rien toucher.__
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/742da040-8846-4fc1-9aee-228ebdbf523b)
+
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/3a79615d-326e-486d-85a2-664a462b1bd5)
+
+- **Step 6:** Indiquer les informations de base du forum :
+Vous pouvez définir la langue du forum et indiquer un nom et une brève description.
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/d672abc6-93b1-407f-8403-290c98d3055a)
+
+Vous pourrez ensuite les modifiés dans l'interface administrateur.
+
+- Cliquez sur **Soumettre**
+
+## L'installation démarre, patienter jusqu'à la fin..
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/3da0adb5-fd0f-4efb-a8fc-6f5dc7c684dc)
+
+### Une fois terminé vous devez avoir un affichage comme ceci : 
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/5661e487-263c-463c-896d-6b726046f8bf)
+
+Vous pouvez vous connectez immédiatement au panel administrateur en cliquant sur "apc" mais je vous conseil avant de supprimé le répertoire 
+"**instal/**" ce trouvant dans le répertoire **/www/phpBB3/install**
+
+Une fois supprimé faite un reload du serveur puis venez cliquer ici pour commencé a utilisé votre forum et paramétrer sont ensemble..
+![image](https://github.com/DarkGoliath2-0/WebBoutForum/assets/168300186/c6680fbc-e954-472c-abf9-4eec7d1417fc)
+
+Merci d'avoir suivi ce tuto..
+Si vous avez le moindre problème avec cette configuration ou l'utilisation de notre boutique ou forum, vous pouvez venir demander sur notre serveur discord de l'aide pour l'utilisation. un Salon d'aide est dédié pour cela..
